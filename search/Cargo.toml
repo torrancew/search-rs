@@ -7,7 +7,7 @@ edition = "2021"
 schema-derive = { version = "0.1.0", path = "../schema-derive" }
 stopwords = "0.1.1"
 thiserror = "1.0.61"
-xapian-rs = { version = "0", path = "../../xapian-rs" }
+xapian-rs = { version = "0.3.0" }
 
 [dev-dependencies]
 anyhow = "1.0.94"

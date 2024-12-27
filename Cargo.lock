@@ -1223,6 +1223,8 @@ checksum = "589f6da84c646204747d1270a2a5661ea66ed1cced2631d546fdfb155959f9ec"
 [[package]]
 name = "xapian-rs"
 version = "0.3.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "0e1567f1cae884f14a035bd4e4f8751193f9c2e62fce4e5bd96f492a606c1f7f"
 dependencies = [
  "autocxx",
  "autocxx-build",
